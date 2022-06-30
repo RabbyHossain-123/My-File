@@ -1,0 +1,3 @@
+user|1234567*|srtamim.public@gmail.com|Male
+admin|123|srtamim.public@gmail.com|Maleabc|12345678@|rabbyhossain2265@gmail.com|Male
+abc|*1234567|rabbyhossain2265@gmail.com|Male
